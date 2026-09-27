@@ -1,0 +1,7 @@
+{
+  "name": "FretCraft",
+  "description": "Modern web app for guitarists to learn songs, discover chords, practice, and explore chord progressions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
